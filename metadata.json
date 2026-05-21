@@ -1,0 +1,6 @@
+{
+  "name": "AndrisonXai",
+  "description": "AndrisonXai, asisten AI yang cerdas, ramah, dan solutif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
